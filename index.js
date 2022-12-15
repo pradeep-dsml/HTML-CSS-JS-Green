@@ -1,0 +1,1 @@
+document.getElementsByClassName("h1").innerHTM("hello only")
